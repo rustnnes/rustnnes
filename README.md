@@ -2,15 +2,22 @@ Olá! Como vai? 👋
 
 Sou **Diego Rustnnes Bandeira**, Engenheiro de Qualidade de Software, residente no 🇧🇷.
 
-Bacharel em Ciência da Computação e pós-graduando em Engenharia e Qualidade de Software, ambos pela UNIPE. Pesquisador da cultura DevOps e seus efeitos no processo de desenvolvimento de software. Ampliando conhecimento em Qualidade e Testes de Software no Curso [TSPI](https://tspi.juliodelima.com.br/) com [Julio de Lima](https://github.com/juliodelimas). Sempre aprendendo e compartilhando conhecimento.
+Bacharel em Ciência da Computação e pós-graduando em Engenharia e Qualidade de Software, ambos pela UNIPE. Pesquisador da cultura DevOps e seus efeitos no processo de desenvolvimento de software. Sempre aprendendo e compartilhando conhecimento.
 
-Fun fact: sou apaixonado por Música e multi-instrumentista amador, aprendi ukulele e cavaquinho durante a pandemia...
+_Fun fact_: sou apaixonado por Música e multi-instrumentista amador, aprendi ukulele e cavaquinho durante a pandemia 😅🎵
 
 Entre em contato por aqui:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Diego%20Bandeira-informational?style=flat-square&logo=linkedin)][linkedin] [![twitter](https://img.shields.io/badge/twitter-@rustnnes-informational?style=flat-square&logo=twitter)][twitterfollow] [![Github](https://img.shields.io/badge/Github-rustnnes-informational?style=flat-square&logo=github)][gh-issues]
+[![About.me](https://img.shields.io/badge/About.me-Diego%20Bandeira-informational?style=flat-square&logo=about.me)][aboutme]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Diego%20Bandeira-informational?style=flat-square&logo=linkedin)][linkedin]
+[![twitter](https://img.shields.io/badge/twitter-@rustnnes-informational?style=flat-square&logo=twitter)][twitterfollow]
+[![Github](https://img.shields.io/badge/Github-rustnnes-informational?style=flat-square&logo=github)][gh-issues]
 
-##### Skills
+#### Cursos
+
+- Programa de Testes e Qualidade de Software ([PTQS](https://programa.juliodelima.com.br/)) com [Julio de Lima](https://github.com/juliodelimas).
+
+#### Skills
 
 <p>
     <img src="https://img.shields.io/badge/Test-green" />
@@ -25,10 +32,10 @@ Entre em contato por aqui:
     <img src="https://img.shields.io/badge/Yaml-06f?logo=yaml" />
     <img src="https://img.shields.io/badge/Xml-06f" />
     <br>
-    <img src="https://img.shields.io/badge/Selenium-fa9?logo=selenium" />
+    <img src="https://img.shields.io/badge/Selenium-fa9?logo=selenium&labelColor=333" />
     <img src="https://img.shields.io/badge/Appium-fa9?logo=appium" />
-    <img src="https://img.shields.io/badge/Cucumber-fa9?logo=cucumber" />
-    <img src="https://img.shields.io/badge/JUnit-fa9?logo=junit" />
+    <img src="https://img.shields.io/badge/Cucumber-fa9?logo=cucumber&labelColor=333" />
+    <img src="https://img.shields.io/badge/JUnit5-fa9?logo=junit5&labelColor=333" />
     <img src="https://img.shields.io/badge/TestNG-fa9?logo=testng" />
     <img src="https://img.shields.io/badge/Spring-fa9?logo=spring&labelColor=333" />
     <br>
@@ -47,6 +54,12 @@ Entre em contato por aqui:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rustnnes&layout=compact&custom_title=Linguagens%20Mais%20Usadas&langs_count=6&hide_border=true)
 ![Github stats](https://github-readme-stats.vercel.app/api?username=rustnnes&line_height=20px&custom_title=Estatísticas&locale=pt-br&show_icons=true&count_private=true&layout=compact&hide_border=true)
 
+---
+
+![](https://komarev.com/ghpvc/?username=rustnnes&label=👀)
+
+
+[aboutme]: https://about.me/rustnnes/
 [linkedin]: https://www.linkedin.com/in/rustnnes/
 [gh-issues]: https://github.com/rustnnes/rustnnes/issues/new
 [twitterfollow]: https://twitter.com/intent/follow?screen_name=rustnnes
