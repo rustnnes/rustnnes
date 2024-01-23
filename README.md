@@ -56,9 +56,6 @@ Entre em contato por aqui:
 
 ---
 
-![](https://komarev.com/ghpvc/?username=rustnnes&label=👀)
-
-
 [aboutme]: https://about.me/rustnnes/
 [linkedin]: https://www.linkedin.com/in/rustnnes/
 [gh-issues]: https://github.com/rustnnes/rustnnes/issues/new
